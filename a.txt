@@ -16,4 +16,8 @@
 我是dev1,拉取了远程master
 >>>>>>> dev1
 >>>>>>> 9b60f505af1deb2971d2c61e69be9b831ab21895
+<<<<<<< HEAD
 我是master，编辑完后，提交到远程dev1
+=======
+我是dev1,编辑完了，将与本地master合并，然后推送到远程dev1
+>>>>>>> dev1
