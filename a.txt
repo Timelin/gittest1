@@ -16,3 +16,4 @@
 我是dev1,拉取了远程master
 >>>>>>> dev1
 >>>>>>> 9b60f505af1deb2971d2c61e69be9b831ab21895
+我是master，编辑完后，提交到远程dev1
